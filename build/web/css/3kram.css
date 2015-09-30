@@ -1,0 +1,25 @@
+#celek{margin:0px auto;background-color: black;padding:50px}
+body{background-color: black;color: whitesmoke}
+#nadpis{color: whitesmoke;font-family: fantasy;font-size: 45pt;margin-left: 24%;font-style: italic}
+#form{color: whitesmoke;margin-left: 34%;font-size: 18pt}
+#obrazek1{width: 450px;height: 450px;margin-left: 10%}
+#obrazek2{width: 450px;height: 450px;margin-left: 10%}
+#obrazek3{width: 450px;height: 450px;margin-left: 10%}
+#obrazek4{width: 450px;height: 450px;margin-left: 10%}
+#tlacitko{margin-left: 0%}
+#odesilac{margin-left: 20%;color: whitesmoke}
+#kobrazku1{width: 47%;float: left}
+#kobrazku2{width: 47%;float: right}
+#kobrazku3{width: 47%;float: left}
+#kobrazku4{width: 47%;float: right}
+#prvni{float: inside}
+#druhy{float: inside}
+#konec{float: bottom}
+#dopredu{height: 40px;width: 90px;margin-left: 42%}
+#dozadu{height: 40px;width: 90px;margin-left: 1%}
+#hotovo{height: 40px;width: 90px;margin-left: 32%}
+#input1{margin-left: 17%}
+#input2{margin-left: 17%}
+#input3{margin-left: 17%}
+#input4{margin-left: 17%}
+h2{margin-left:35%}

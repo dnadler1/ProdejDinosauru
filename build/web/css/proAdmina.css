@@ -1,0 +1,20 @@
+#celek{margin:0px auto;background-color: black;padding:50px;width: 100%;height: 100%}
+body{background-color: black;color: whitesmoke}
+table{border-color: aqua}
+#horejsek{float: left;width: 100%;height: 100%}
+#dolejsek{float: left;width: 100%;height: 100%}
+#table1{width: 50%;float: left;height: 100%}
+#table2{width: 50%;float: right;height: 100%}
+#table3{width: 50%;float: left;height: 100%}
+#table4{width: 50%;float: right;height: 100%}
+#nejdolejsi{color: beige}
+#jednaform{float: left}
+#dvaform{float: left}
+#triform{float: left}
+#ctyriform{float: left}
+#1fied{width: 10%;float: left}
+#2fiel{width: 10%;float: left}
+#3field{width: 10%;float: left}
+#4field{width: 10%;float: left}
+#nejdolejsi{float:right;margin-left: 15%}
+a{font-size: 25pt;float:left;margin-left: 50%}
